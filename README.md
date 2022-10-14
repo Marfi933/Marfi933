@@ -1,13 +1,12 @@
-### Hi there 👋
+Hi there 👋
+I’m currently working on: 
 
-I’m currently working on:
-	pass
+• pass
 
 Projects:
 
-•	logopaed.online.cz
+• logopaed.online.cz
 
 How to reach me:
 
-•	petr.nemec.domu@gmail.com
-
+• petr.nemec.domu@gmail.com
