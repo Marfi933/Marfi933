@@ -1,7 +1,7 @@
 Hi there 👋
 # I’m currently working on: 
 
-• judoklubolomouc.com
+• judoklubolomouc.com (Django)
 
 # Projects:
 
