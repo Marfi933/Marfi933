@@ -5,7 +5,7 @@ Hi there 👋
 
 # Projects:
 
-• logopaed.online.cz (Wordpress)
+• logopaed.cz (Wordpress)
 
 # How to reach me:
 
