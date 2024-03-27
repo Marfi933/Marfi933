@@ -2,6 +2,7 @@ Hi there 👋
 # I’m currently working on: 
 
 • judoklubolomouc.com (Django)
+• alos.cz (WP)
 
 # Projects:
 
